@@ -1,0 +1,25 @@
+{
+  "name": "react-hook-package",
+  "version": "1.0.0",
+  "description": "'All React JS custom hooks'",
+  "main": "index.js",
+  "scripts": {
+    "test": "'npm run test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivajisurwase/react-hooks-package.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "custom",
+    "package"
+  ],
+  "author": "Shivaji & Shyamal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shivajisurwase/react-hooks-package/issues"
+  },
+  "homepage": "https://github.com/shivajisurwase/react-hooks-package#readme"
+}
